@@ -69,6 +69,20 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Presentation</td>
   </tr>
   <tr>
+    <td>11/07/12</td>
+    <td><a href="http://blog.zenorocha.com/post/26995115768/front-end-made-in-brazil">Front-end Made in Brazil</a></td>
+    <td>A post published in personal blog referring to a magazine article about front-end development in Brazil</td>
+	<td>pt-br</td>
+    <td>Blog post</td>
+  </tr>  
+  <tr>
+    <td>10/07/12</td>
+    <td><a href="http://blog.zenorocha.com/post/26918306746/tudo-novo-de-novo">All new again</a></td>
+    <td>A post published in personal blog talking about how it was to move from Globo to Liferay</td>
+	<td>pt-br</td>
+    <td>Blog post</td>
+  </tr>  
+  <tr>
     <td>04/07/12</td>
     <td><a href="http://talks.zenorocha.com/tdc-2012/">Canvas, SVG and WebGL</a></td>
     <td>A presentation at TDC - The Developers Conference in São Paulo, SP - Brazil</td>
