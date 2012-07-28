@@ -106,7 +106,7 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td><a href="http://www.nodejs.es/excelente-sintesis-jsconfar-zeno-rocha/">Excelente síntesis de JSConfar por Zeno Rocha</a></td>
     <td>A post published by Dan Zajdband in NodeJS En Español talking about my presentation at JSConf Latin America</td>
 	<td>es</td>
-    <td>Presentation</td>
+    <td>Blogpost</td>
   </tr>
   <tr>
     <td>19/05/12</td>
