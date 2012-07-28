@@ -122,4 +122,11 @@ If you are looking for the comming next confereces that I'm going to talk, you s
 	<td>en</td>
     <td>Presentation</td>
   </tr>
+  <tr>
+    <td>28/02/12</td>
+    <td><a href="http://www.youtube.com/watch?v=Ms3Vsz7Jc3A">Sublime Text 2 - Front-end Development Tips</a></td>
+    <td>A video tutorial showing some tips on how to use Sublime Text 2 for front-end development</td>
+	<td>en</td>
+    <td>Presentation</td>
+  </tr>
 </table>
