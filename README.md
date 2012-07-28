@@ -1,5 +1,9 @@
 # My web-log
 
+This is going to be my online trail (but for now, it's under construction). 
+
+If you are looking for the comming next confereces that I'm going to talk, you should [see this](https://github.com/zenorocha/talks).
+
 <table>
   <tr>
     <th>Date</th>
@@ -74,7 +78,7 @@
   <tr>
     <td>03/07/12</td>
     <td><a href="https://developer.mozilla.org/media/uploads/demos/b/e/bernarddeluna/7ba14851a8beaa16e4e8a519fa760cea/old-radio_1342116515_demo_package/index.html">old Radio</a></td>
-    <td>A experiment made with CSS3, HTML5 Audio API and YUI3 featured in Mozilla Demo Studio</td>
+    <td>An experiment made with CSS3, HTML5 Audio API and YUI3 featured in Mozilla Demo Studio</td>
 	<td>en</td>
     <td>Experiment</td>
   </tr>
