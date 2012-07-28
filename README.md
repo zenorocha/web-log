@@ -16,7 +16,7 @@
     <td>Video</td>
   </tr>
   <tr>
-    <td>27/07/12</td>
+    <td>26/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/28106562920/dont-feed-the-trolls">Don't Feed the Trolls</a></td>
     <td>A blog post talking about the bad things troll people can do and how to handle it.</td>
 	<td>pt-br</td>
@@ -36,6 +36,25 @@
 	<td>pt-br</td>
     <td>Presentation</td>
   </tr>  
-  
-
+  <tr>
+    <td>14/07/12</td>
+    <td><a href="http://talks.zenorocha.com/frontinbh">CSS Sucks!</a></td>
+    <td>A presentation at Front in BH in Belo Horizonte, MG - Brazil</td>
+	<td>pt-br</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>04/07/12</td>
+    <td><a href="http://talks.zenorocha.com/tdc-2012/">Canvas, SVG and WebGL</a></td>
+    <td>A presentation at TDC - The Developers Conference in São Paulo, SP - Brazil</td>
+	<td>pt-br</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>23/06/12</td>
+    <td><a href="talks.zenorocha.com/frontincuritiba-2012/">Canvas, SVG and WebGL</a></td>
+    <td>A presentation at Front in Curitiba in Curitiba, PR - Brazil</td>
+	<td>pt-br</td>
+    <td>Presentation</td>
+  </tr>
 </table>
