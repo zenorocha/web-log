@@ -104,9 +104,16 @@ If you are looking for the comming next confereces that I'm going to talk, you s
   <tr>
     <td>25/05/12</td>
     <td><a href="http://www.nodejs.es/excelente-sintesis-jsconfar-zeno-rocha/">Excelente síntesis de JSConfar por Zeno Rocha</a></td>
-    <td>A post published by Dan Zajdband in NodeJS En Español talking about my presentation at JSConf Latin America</td>
+    <td>A post published by Damian Suarez in NodeJS En Español talking about my presentation at JSConf Latin America</td>
 	<td>es</td>
     <td>Blogpost</td>
+  </tr>
+  <tr>
+    <td>20/05/12</td>
+    <td><a href="http://www.youtube.com/watch?v=wxDBF3OOaRA">JSConf Argentina 2012 - Interview for BrazilJS Community</a></td>
+    <td>A video interview with some speakers of JSConf Latin America</td>
+	<td>en</td>
+    <td>Video</td>
   </tr>
   <tr>
     <td>19/05/12</td>
