@@ -18,14 +18,14 @@
   <tr>
     <td>26/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/28106562920/dont-feed-the-trolls">Don't Feed the Trolls</a></td>
-    <td>A blog post talking about the bad things troll people can do and how to handle it.</td>
+    <td>A post published on my personal blog talking about the bad things troll people can do and how to handle it</td>
 	<td>pt-br</td>
     <td>Blog post</td>
   </tr>          
   <tr>
     <td>26/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/28082270941/introducing-braziljs-foundation">Introducing BrazilJS Foundation</a></td>
-    <td>A blog post introducing the BrazilJS Foundation</td>
+    <td>A post published on my personal blog introducing the BrazilJS Foundation</td>
 	<td>en</td>
     <td>Blog post</td>
   </tr>        
@@ -36,6 +36,27 @@
 	<td>pt-br</td>
     <td>Presentation</td>
   </tr>  
+  <tr>
+    <td>19/07/12</td>
+    <td><a href="http://blog.zenorocha.com/post/27569632629/como-fizemos-o-oldradio">How did we created Old Radio?</a></td>
+    <td>A post published on my personal blog explaning how did we created that experiment</td>
+	<td>pt-br</td>
+    <td>Blog post</td>
+  </tr>          
+  <tr>
+    <td>16/07/12</td>
+    <td><a href="http://tableless.com.br/css-sprites/">CSS Sprites</a></td>
+    <td>A post published in Tableless talking about how can we handle CSS Sprites today</td>
+	<td>pt-br</td>
+    <td>Blog post</td>
+  </tr>            
+  <tr>
+    <td>16/07/12</td>
+    <td><a href="http://www.youtube.com/watch?v=dnekMEGwuaA">Compass Sprite Generator</a></td>
+    <td>A video teaching people how to use the sprite generator of Compass </td>
+	<td>pt-br</td>
+    <td>Video</td>
+  </tr>
   <tr>
     <td>14/07/12</td>
     <td><a href="http://talks.zenorocha.com/frontinbh">CSS Sucks!</a></td>
@@ -49,6 +70,13 @@
     <td>A presentation at TDC - The Developers Conference in São Paulo, SP - Brazil</td>
 	<td>pt-br</td>
     <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>03/07/12</td>
+    <td><a href="https://developer.mozilla.org/media/uploads/demos/b/e/bernarddeluna/7ba14851a8beaa16e4e8a519fa760cea/old-radio_1342116515_demo_package/index.html">old Radio</a></td>
+    <td>A experiment made with CSS3, HTML5 Audio API and YUI3 featured in Mozilla Demo Studio</td>
+	<td>en</td>
+    <td>Experiment</td>
   </tr>
   <tr>
     <td>23/06/12</td>
