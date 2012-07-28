@@ -1,7 +1,5 @@
 # My web-log
 
-This is going to be my online trail (but for now, it's under construction). 
-
 If you are looking for the comming next confereces that I'm going to talk, you should [see this](https://github.com/zenorocha/talks).
 
 <table>
