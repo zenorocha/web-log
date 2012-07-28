@@ -12,11 +12,11 @@
     <td>27/07/12</td>
     <td><a href="http://www.youtube.com/watch?v=Lu77uPgrgx0">Boot2Gecko Phone Demo</a></td>    
     <td>A video with Christian Heilmann from Mozilla's Hackathon demonstrating a phone running Boot2Gecko (or FirefoxOS)</td>
-	<td>pt-br</td>
+	<td>en</td>
     <td>Video</td>
   </tr>
   <tr>
-    <td>26/07/12</td>
+    <td>27/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/28106562920/dont-feed-the-trolls">Don't Feed the Trolls</a></td>
     <td>A blog post talking about the bad things troll people can do and how to handle it.</td>
 	<td>pt-br</td>
