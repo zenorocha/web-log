@@ -21,7 +21,7 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>26/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/28106562920/dont-feed-the-trolls">Don't Feed the Trolls</a></td>
     <td>A post published on my personal blog talking about the bad things troll people can do and how to handle it</td>
-	<td>pt-br</td>
+	<td>pt</td>
     <td>Blog post</td>
   </tr>          
   <tr>
@@ -35,56 +35,56 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>25/07/12</td>
     <td><a href="http://talks.zenorocha.com/2012/fisl">Canvas, SVG and WebGL</a></td>
     <td>A presentation at FISL in Porto Alegre, RS - Brazil</td>
-	<td>pt-br</td>
+	<td>pt</td>
     <td>Presentation</td>
   </tr>  
   <tr>
     <td>19/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/27569632629/como-fizemos-o-oldradio">How did we created Old Radio?</a></td>
     <td>A post published on my personal blog explaning how did we created that experiment</td>
-	<td>pt-br</td>
+	<td>pt</td>
     <td>Blog post</td>
   </tr>          
   <tr>
     <td>16/07/12</td>
     <td><a href="http://tableless.com.br/css-sprites/">CSS Sprites</a></td>
     <td>A post published in Tableless talking about how can we handle CSS Sprites today</td>
-	<td>pt-br</td>
+	<td>pt</td>
     <td>Blog post</td>
   </tr>            
   <tr>
     <td>16/07/12</td>
     <td><a href="http://www.youtube.com/watch?v=dnekMEGwuaA">Compass Sprite Generator</a></td>
     <td>A video teaching people how to use the sprite generator of Compass </td>
-	<td>pt-br</td>
+	<td>pt</td>
     <td>Video</td>
   </tr>
   <tr>
     <td>14/07/12</td>
     <td><a href="http://talks.zenorocha.com/frontinbh">CSS Sucks!</a></td>
     <td>A presentation at Front in BH in Belo Horizonte, MG - Brazil</td>
-	<td>pt-br</td>
+	<td>pt</td>
     <td>Presentation</td>
   </tr>
   <tr>
     <td>11/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/26995115768/front-end-made-in-brazil">Front-end Made in Brazil</a></td>
     <td>A post published in personal blog referring to a magazine article about front-end development in Brazil</td>
-	<td>pt-br</td>
+	<td>pt</td>
     <td>Blog post</td>
   </tr>  
   <tr>
     <td>10/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/26918306746/tudo-novo-de-novo">All new again</a></td>
     <td>A post published in personal blog talking about how it was to move from Globo to Liferay</td>
-	<td>pt-br</td>
+	<td>pt</td>
     <td>Blog post</td>
   </tr>  
   <tr>
     <td>04/07/12</td>
     <td><a href="http://talks.zenorocha.com/tdc-2012/">Canvas, SVG and WebGL</a></td>
     <td>A presentation at TDC - The Developers Conference in São Paulo, SP - Brazil</td>
-	<td>pt-br</td>
+	<td>pt</td>
     <td>Presentation</td>
   </tr>
   <tr>
@@ -96,9 +96,23 @@ If you are looking for the comming next confereces that I'm going to talk, you s
   </tr>
   <tr>
     <td>23/06/12</td>
-    <td><a href="talks.zenorocha.com/frontincuritiba-2012/">Canvas, SVG and WebGL</a></td>
+    <td><a href="http://talks.zenorocha.com/frontincuritiba-2012/">Canvas, SVG and WebGL</a></td>
     <td>A presentation at Front in Curitiba in Curitiba, PR - Brazil</td>
-	<td>pt-br</td>
+	<td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>25/05/12</td>
+    <td><a href="http://www.nodejs.es/excelente-sintesis-jsconfar-zeno-rocha/">Excelente síntesis de JSConfar por Zeno Rocha</a></td>
+    <td>A post published by Dan Zajdband in NodeJS En Español talking about my presentation at JSConf Latin America</td>
+	<td>es</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>19/05/12</td>
+    <td><a href="http://talks.zenorocha.com/jsconf/">Canvas, SVG and WebGL</a></td>
+    <td>A presentation at JSConf Latin America in Bueno Aires - Argentina</td>
+	<td>en</td>
     <td>Presentation</td>
   </tr>
 </table>
