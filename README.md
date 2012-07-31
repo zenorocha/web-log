@@ -116,6 +116,20 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Presentation</td>
   </tr>
   <tr>
+    <td>14/06/12</td>
+    <td><a href="http://tableless.com.br/principios-para-escrever-css-de-forma-consistente/">Principles of writing consistent CSS</a></td>
+    <td>A post published in Tableless.com.br introducing the translated version of Idiomatic CSS</td>
+    <td>pt</td>
+    <td>Blog post</td>
+  </tr>
+  <tr>
+    <td>30/05/12</td>
+    <td><a href="http://tableless.com.br/eventos-front-end-que-voce-nao-pode-perder-em-2012/">Front-end development conferences that you can't miss in 2012</a></td>
+    <td>A post published in Tableless.com.br talking about the front-end development conferences that were going to happen in Brazil</td>
+    <td>pt</td>
+    <td>Blog post</td>
+  </tr>
+  <tr>
     <td>25/05/12</td>
     <td><a href="http://www.nodejs.es/excelente-sintesis-jsconfar-zeno-rocha/">Excelente síntesis de JSConfar por Zeno Rocha</a></td>
     <td>A post published by Damian Suarez in NodeJS En Español talking about my presentation at JSConf Latin America</td>
@@ -135,6 +149,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>A presentation at JSConf Latin America in Bueno Aires - Argentina</td>
     <td>en</td>
     <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>02/05/12</td>
+    <td><a href="http://tableless.com.br/tudo-que-voce-gostaria-de-saber-sobre-plugins-jquery-e-ninguem-teve-paciencia-de-explicar/">Everything you wanted to know about jQuery plugins and no one had the patience to explain</a></td>
+    <td>A post published in Tableless.com.br talking about the jquery plugin development</td>
+    <td>pt</td>
+    <td>Blog post</td>
   </tr>
   <tr>
     <td>28/02/12</td>
