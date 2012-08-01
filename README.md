@@ -11,6 +11,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
+    <td>30/05/12</td>
+    <td><a href="http://imasters.com.br/artigo/25149/jquery/codificando-atraves-do-boilerplate-do-plugin-jquery">Walking Through jQuery Plugin Boilerplate</a></td>
+    <td>A post published by Joe Zim and translated by iMasters.com.br teaching how to use jQuery Boilerplate (project created by me)</td>
+    <td>pt</td>
+    <td>Blogpost</td>
+  </tr>
+  <tr>
     <td>28/07/12</td>
     <td><a href="http://tableless.com.br/conheca-de-verdade-o-boot2gecko-ou-firefoxos/">Meet Boot2Gecko (or FirefoxOS)</a></td>
     <td>A post published in Tableless.com.br talking about what is Boot2Gecko and my experience at FISL</td>
@@ -128,6 +135,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>A post published in Tableless.com.br talking about the front-end development conferences that were going to happen in Brazil</td>
     <td>pt</td>
     <td>Blog post</td>
+  </tr>
+  <tr>
+    <td>25/05/12</td>
+    <td><a href="http://www.joezimjs.com/javascript/walking-jquery-plugin-boilerplate/">Walking Through jQuery Plugin Boilerplate</a></td>
+    <td>A post published by Joe Zim in his blog teaching how to use jQuery Boilerplate (project created by me)</td>
+    <td>en</td>
+    <td>Blogpost</td>
   </tr>
   <tr>
     <td>25/05/12</td>
