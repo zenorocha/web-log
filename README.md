@@ -11,7 +11,14 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
-    <td>30/05/12</td>
+    <td>04/08/12</td>
+    <td><a href="http://www.youtube.com/watch?v=19UBOKHNVGM">CSS4 Variables</a></td>
+    <td>A screencast showing how to use variables with CSS Preprocessors and CSS4</td>
+    <td>pt</td>
+    <td>Video</td>
+  </tr>
+  <tr>
+    <td>30/07/12</td>
     <td><a href="http://imasters.com.br/artigo/25149/jquery/codificando-atraves-do-boilerplate-do-plugin-jquery">Walking Through jQuery Plugin Boilerplate</a></td>
     <td>A post published by Joe Zim and translated by iMasters.com.br teaching how to use jQuery Boilerplate (project created by me)</td>
     <td>pt</td>
