@@ -11,6 +11,27 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
+  <tr>
+    <td>15/08/12</td>
+    <td><a href="http://firefoxphones.com/2012/08/meet-the-real-firefoxos/">Meet the real FirefoxOS</a></td>
+    <td>A post published in FirefoxPhones.com talking about what is Boot2Gecko</td>
+    <td>en</td>
+    <td>Blog post</td>
+  </tr>
+  <tr>
+    <td>07/08/12</td>
+    <td><a href="http://blog.zenorocha.com/post/28940311936/relato-mozreps-speakers-training-qcon">MozReps Speaker's Training + QCon</a></td>
+    <td>A post published in my personal blog talking about my experience at MozReps Speaker's Training and QCon 2012</td>
+    <td>pt</td>
+    <td>Blog post</td>
+  </tr>
+  <tr>
+    <td>07/08/12</td>
+    <td><a href="http://blog.zenorocha.com/post/28963290827/relato-13-fisl">13 FISL</a></td>
+    <td>A post published in my personal blog talking about my experience at FISL</td>
+    <td>pt</td>
+    <td>Blog post</td>
+  </tr>
     <td>04/08/12</td>
     <td><a href="http://www.youtube.com/watch?v=19UBOKHNVGM">CSS4 Variables</a></td>
     <td>A screencast showing how to use variables with CSS Preprocessors and CSS4</td>
