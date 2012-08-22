@@ -23,7 +23,7 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td><a href="http://www.youtube.com/watch?v=FjO49VzKzqA">BrazilJS Cast #1 - Hello World</a></td>
     <td>A videocast talking about what is BrazilJS Foundation and what are our plans</td>
     <td>pt</td>
-    <td>VideoCast</td>
+    <td>Videocast</td>
   </tr>
   <tr>
     <td>07/08/12</td>
@@ -166,6 +166,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
   </tr>
   <tr>
     <td>30/05/12</td>
+    <td><a href="http://www.searchcast.com.br/tecnologias-web/searchcast-098-layout-responsivo/">Searchcast 098: Resposive Design</a></td>
+    <td>A podcast published in Searchcast.com.br talking about Resposive Design</td>
+    <td>pt</td>
+    <td>Podcast</td>
+  </tr>
+  <tr>
+    <td>30/05/12</td>
     <td><a href="http://tableless.com.br/eventos-front-end-que-voce-nao-pode-perder-em-2012/">Front-end development conferences that you can't miss in 2012</a></td>
     <td>A post published in Tableless.com.br talking about the front-end development conferences that were going to happen in Brazil</td>
     <td>pt</td>
@@ -200,11 +207,25 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Presentation</td>
   </tr>
   <tr>
+    <td>10/05/12</td>
+    <td><a href="http://www.searchcast.com.br/tecnologias-web/tecnologias-web-html5-css3-mobile-first-layout-responsivo/">Searchcast 096: HTML5, CSS3 and Mobile First</a></td>
+    <td>A podcast published in Searchcast.com.br talking about HTML5, CSS3 and Mobile First</td>
+    <td>pt</td>
+    <td>Podcast</td>
+  </tr>
+  <tr>
     <td>02/05/12</td>
     <td><a href="http://tableless.com.br/tudo-que-voce-gostaria-de-saber-sobre-plugins-jquery-e-ninguem-teve-paciencia-de-explicar/">Everything you wanted to know about jQuery plugins and no one had the patience to explain</a></td>
     <td>A post published in Tableless.com.br talking about the jquery plugin development</td>
     <td>pt</td>
     <td>Blog post</td>
+  </tr>
+  <tr>
+    <td>02/05/12</td>
+    <td><a href="http://www.searchcast.com.br/tecnologias-web/searchcast-094-introducao-a-tecnologias-web-atuais/">SearchCast 094: Introducing modern web technologies</a></td>
+    <td>A podcast published in Searchcast.com.br talking about the modern web technologies</td>
+    <td>pt</td>
+    <td>Podcast</td>
   </tr>
   <tr>
     <td>28/02/12</td>
