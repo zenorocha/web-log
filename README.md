@@ -11,6 +11,40 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
+    <td>22/08/12</td>
+    <td><a href="http://blog.zenorocha.com/post/29927205539/javascript-the-right-way">JavaScript: The Right Way</a></td>
+    <td>A blog post published in my personal blog talking about the open source project JS: The Right Way</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
+    <td>20/08/12</td>
+    <td><a href="http://www.youtube.com/watch?v=k212frcMVcU">Life beyond jQuery - Part 1</a></td>
+    <td>A video recorded in a techtalk about front-end development area</td>
+    <td>pt</td>
+    <td>Video</td>
+  </tr>
+  <tr>
+    <td>20/08/12</td>
+    <td><a href="http://blog.zenorocha.com/post/29872945048/a-vida-alem-do-jquery-tech-talk">Life beyond jQuery</a></td>
+    <td>A blog post published in my personal blog talking about the Life Beyond jQuery's techtalk</td>
+    <td>pt</td>
+    <td>Blog post</td>
+  </tr>
+  <tr>
+    <td>16/08/12</td>
+    <td><a href="http://www.facebook.com/events/274730295965383/">Life beyond jQuery</a></td>
+    <td>A techtalk about YUI3 with Djalma and Eduardo at Liferay</td>
+    <td>pt</td>
+    <td>Tech talk</td>
+  </tr>
+  <tr>
+    <td>15/08/12</td>
+    <td><a href="http://www.yuiblog.com/blog/2012/08/15/yui-tech-talks-at-liferay-brasil-this-week/">YUI Tech Talks at Liferay Brazil This Week</a></td>
+    <td>A blog post published in YUI Blog talking about the tech talk we were promoting</td>
+    <td>en</td>
+    <td>Blog post</td>
+  </tr>
   <tr>
     <td>15/08/12</td>
     <td><a href="http://firefoxphones.com/2012/08/meet-the-real-firefoxos/">Meet the real FirefoxOS</a></td>
