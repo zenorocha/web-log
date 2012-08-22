@@ -19,6 +19,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Blog post</td>
   </tr>
   <tr>
+    <td>14/08/12</td>
+    <td><a href="http://www.youtube.com/watch?v=FjO49VzKzqA">BrazilJS Cast #1 - Hello World</a></td>
+    <td>A videocast talking about what is BrazilJS Foundation and what are our plans</td>
+    <td>pt</td>
+    <td>VideoCast</td>
+  </tr>
+  <tr>
     <td>07/08/12</td>
     <td><a href="http://blog.zenorocha.com/post/28940311936/relato-mozreps-speakers-training-qcon">MozReps Speaker's Training + QCon</a></td>
     <td>A post published in my personal blog talking about my experience at MozReps Speaker's Training and QCon 2012</td>
