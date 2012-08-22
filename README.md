@@ -32,9 +32,16 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Blog post</td>
   </tr>
   <tr>
+    <td>18/08/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/frontinpoa">CSS Sucks!</a></td>
+    <td>A presentation at Front in POA in Porto Alegre, RS - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
     <td>16/08/12</td>
     <td><a href="http://www.facebook.com/events/274730295965383/">Life beyond jQuery</a></td>
-    <td>A techtalk about YUI3 with Djalma and Eduardo at Liferay</td>
+    <td>A techtalk about YUI3 with me, Djalma Araújo and Eduardo Lundgren at Liferay</td>
     <td>pt</td>
     <td>Tech talk</td>
   </tr>
@@ -73,6 +80,14 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>pt</td>
     <td>Blog post</td>
   </tr>
+  <tr>
+    <td>04/08/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/qconsp">Front-end Development Myths</a></td>
+    <td>A presentation at QCon in São Paulo, SP - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
     <td>04/08/12</td>
     <td><a href="http://www.youtube.com/watch?v=19UBOKHNVGM">CSS4 Variables</a></td>
     <td>A screencast showing how to use variables with CSS Preprocessors and CSS4</td>
@@ -127,7 +142,7 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>A presentation at FISL in Porto Alegre, RS - Brazil</td>
     <td>pt</td>
     <td>Presentation</td>
-  </tr>  
+  </tr>
   <tr>
     <td>19/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/27569632629/como-fizemos-o-oldradio">How did we created Old Radio?</a></td>
