@@ -11,6 +11,20 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
+    <td>03/09/12</td>
+    <td><a href="http://www.cidadeinternet.com.br/tecnologia/zoom/o-futuro-da-web-com-html-5">The Future of the Web with HTML5</a></td>
+    <td>An interview published by Thiago Almeida in Cidade Internet</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
+    <td>03/09/12</td>
+    <td><a href="http://www.revistawide.com.br/index.php/2012/9">The Future of the Web with HTML5</a></td>
+    <td>An interview published by Arteccom in Wide Magazine</td>
+    <td>pt</td>
+    <td>Magazine</td>
+  </tr>
+  <tr>
     <td>22/08/12</td>
     <td><a href="http://blog.zenorocha.com/post/29927205539/javascript-the-right-way">JavaScript: The Right Way</a></td>
     <td>A blog post published in my personal blog talking about the open source project JS: The Right Way</td>
