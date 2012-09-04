@@ -11,6 +11,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
+    <td>04/09/12</td>
+    <td><a href="http://blog.zenorocha.com/post/30870227532/braziljs">The month that I spoke at the biggest JavaScript conference in the universe - BrazilJS</a></td>
+    <td>A post published in my personal blog talking about the experience at BrazilJS 2012</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
     <td>03/09/12</td>
     <td><a href="http://www.cidadeinternet.com.br/tecnologia/zoom/o-futuro-da-web-com-html-5">The Future of the Web with HTML5</a></td>
     <td>A piece of my interview published by Thiago Almeida in Cidade Internet</td>
