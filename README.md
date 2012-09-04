@@ -25,6 +25,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Magazine</td>
   </tr>
   <tr>
+    <td>24/08/12</td>
+    <td><a href="http://blog.zenorocha.com/post/30099307477/braziljs-weekly">BrazilJS Weekly</a></td>
+    <td>A post published in my personal blog talking about the most recent initiative of BrazilJS Foundation</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
     <td>22/08/12</td>
     <td><a href="http://blog.zenorocha.com/post/29927205539/javascript-the-right-way">JavaScript: The Right Way</a></td>
     <td>A post published in my personal blog talking about the open source project JS: The Right Way</td>
