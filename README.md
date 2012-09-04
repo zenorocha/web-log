@@ -32,6 +32,27 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Magazine</td>
   </tr>
   <tr>
+    <td>31/08/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/braziljs">How not to turn into a zombie</a></td>
+    <td>A presentation at BrazilJS in Porto Alegre, RS - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>25/08/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/tdc-floripa">Front-end Development Myths</a></td>
+    <td>A presentation at TDC in Florianópolis, SC - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>24/08/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/tablelessconf">Canvas, SVG e WebGL</a></td>
+    <td>A presentation at TablelessConf in São Paulo, SP - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
     <td>24/08/12</td>
     <td><a href="http://blog.zenorocha.com/post/30099307477/braziljs-weekly">BrazilJS Weekly</a></td>
     <td>A post published in my personal blog talking about the most recent initiative of BrazilJS Foundation</td>
