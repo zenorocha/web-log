@@ -27,7 +27,7 @@ If you are looking for the comming next confereces that I'm going to talk, you s
   <tr>
     <td>22/08/12</td>
     <td><a href="http://blog.zenorocha.com/post/29927205539/javascript-the-right-way">JavaScript: The Right Way</a></td>
-    <td>A blog post published in my personal blog talking about the open source project JS: The Right Way</td>
+    <td>A post published in my personal blog talking about the open source project JS: The Right Way</td>
     <td>pt</td>
     <td>Blog Post</td>
   </tr>
@@ -41,7 +41,7 @@ If you are looking for the comming next confereces that I'm going to talk, you s
   <tr>
     <td>20/08/12</td>
     <td><a href="http://blog.zenorocha.com/post/29872945048/a-vida-alem-do-jquery-tech-talk">Life beyond jQuery</a></td>
-    <td>A blog post published in my personal blog talking about the Life Beyond jQuery's techtalk</td>
+    <td>A post published in my personal blog talking about the Life Beyond jQuery's techtalk</td>
     <td>pt</td>
     <td>Blog post</td>
   </tr>
@@ -62,14 +62,14 @@ If you are looking for the comming next confereces that I'm going to talk, you s
   <tr>
     <td>15/08/12</td>
     <td><a href="http://www.yuiblog.com/blog/2012/08/15/yui-tech-talks-at-liferay-brasil-this-week/">YUI Tech Talks at Liferay Brazil This Week</a></td>
-    <td>A blog post published in YUI Blog talking about the tech talk we were promoting</td>
+    <td>A post published in YUI Blog talking about the tech talk we were promoting</td>
     <td>en</td>
     <td>Blog post</td>
   </tr>
   <tr>
     <td>15/08/12</td>
     <td><a href="http://firefoxphones.com/2012/08/meet-the-real-firefoxos/">Meet the real FirefoxOS</a></td>
-    <td>A post published in FirefoxPhones.com talking about what is Boot2Gecko</td>
+    <td>A published in FirefoxPhones.com talking about what is Boot2Gecko</td>
     <td>en</td>
     <td>Blog post</td>
   </tr>
