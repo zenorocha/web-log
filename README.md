@@ -13,7 +13,7 @@ If you are looking for the comming next confereces that I'm going to talk, you s
   <tr>
     <td>03/09/12</td>
     <td><a href="http://www.cidadeinternet.com.br/tecnologia/zoom/o-futuro-da-web-com-html-5">The Future of the Web with HTML5</a></td>
-    <td>An interview published by Thiago Almeida in Cidade Internet</td>
+    <td>A piece of my interview published by Thiago Almeida in Cidade Internet</td>
     <td>pt</td>
     <td>Blog Post</td>
   </tr>
