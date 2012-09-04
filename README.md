@@ -33,6 +33,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
   </tr>
   <tr>
     <td>31/08/12</td>
+    <td><a href="http://www.youtube.com/watch?feature=player_embedded&v=p1P2hYS2yss">Maujor and Zeno at BrazilJS</a></td>
+    <td>A video recorded at BrazilJS with the final part of my talk</td>
+    <td>pt</td>
+    <td>Video</td>
+  </tr>
+  <tr>
+    <td>31/08/12</td>
     <td><a href="http://talks.zenorocha.com/2012/braziljs">How not to turn into a zombie</a></td>
     <td>A presentation at BrazilJS in Porto Alegre, RS - Brazil</td>
     <td>pt</td>
