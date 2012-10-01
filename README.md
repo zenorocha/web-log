@@ -25,6 +25,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Blog Post</td>
   </tr>
   <tr>
+    <td>31/08/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/souwebpel">SVG, Canvas & WebGL</a></td>
+    <td>A presentation at SouWebPel in Pelotas, RS - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
     <td>28/09/12</td>
     <td><a href="http://www.governoeletronico.gov.br/noticias-e-eventos/noticias/w3c-brasil-anuncia-os-destaques-da-3a-conferencia-web.br">W3C Brazil announces the highlights of the 3rd Web.br Conference</a></td>
     <td>A post published in Governo Eletrônico talking about main the speakers on W3C Brazil's conference</td>
