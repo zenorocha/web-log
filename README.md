@@ -11,6 +11,27 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
+    <td>01/10/12</td>
+    <td><a href="http://imasters.com.br/linguagens/css/searchcast-tecnologias-web-html5-css3-mobile-first-e-layout-responsivo">SearchCast: HTML5, CSS3, mobile first & responsive layout</a></td>
+    <td>A podcast published in iMasters talking about HTML5, CSS3, mobile first & responsive layout</td>
+    <td>pt</td>
+    <td>Podcast</td>
+  </tr>
+  <tr>
+    <td>01/10/12</td>
+    <td><a href="http://imasters.com.br/noticia/inscricoes-para-a-conferencia-web-w3c-brasil-2012-estao-abertas">Registration for the W3C Brazil Web Conference 2012 are open</a></td>
+    <td>A post published in iMasters talking about main the speakers on W3C Brazil's conference</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
+    <td>28/09/12</td>
+    <td><a href="http://www.governoeletronico.gov.br/noticias-e-eventos/noticias/w3c-brasil-anuncia-os-destaques-da-3a-conferencia-web.br">W3C Brazil announces the highlights of the 3rd Web.br Conference</a></td>
+    <td>A post published in Governo Eletrônico talking about main the speakers on W3C Brazil's conference</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
     <td>04/09/12</td>
     <td><a href="http://blog.zenorocha.com/post/30870227532/braziljs">The month that I spoke at the biggest JavaScript conference in the universe - BrazilJS</a></td>
     <td>A post published in my personal blog talking about the experience at BrazilJS 2012</td>
