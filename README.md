@@ -10,6 +10,14 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Lang</th>
     <th>Type</th>
   </tr>
+  
+  <tr>
+    <td>02/10/12</td>
+    <td><a href="http://conferenciaweb.w3c.br/plataforma-aberta-da-web-cases-live-coding/">Open Web Plataform – Cases & Live Coding</a></td>
+    <td>A post published in W3C Brazil talking about the workshop of BrazilJS Foundation</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
   <tr>
     <td>01/10/12</td>
     <td><a href="http://imasters.com.br/linguagens/css/searchcast-tecnologias-web-html5-css3-mobile-first-e-layout-responsivo">SearchCast: HTML5, CSS3, mobile first & responsive layout</a></td>
