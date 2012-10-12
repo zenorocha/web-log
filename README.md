@@ -18,6 +18,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Blog Post</td>
   </tr>
   <tr>
+    <td>06/10/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/frontinmaringa">What I've learned in 3 years as a front-end developer</a></td>
+    <td>A presentation at FrontInMaringá in Maringá, PR - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
     <td>02/10/12</td>
     <td><a href="http://conferenciaweb.w3c.br/plataforma-aberta-da-web-cases-live-coding/">Open Web Plataform – Cases & Live Coding</a></td>
     <td>A post published in W3C Brazil talking about the workshop of BrazilJS Foundation</td>
