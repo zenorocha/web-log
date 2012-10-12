@@ -11,6 +11,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
+    <td>11/10/12</td>
+    <td><a href="http://zofe.com.br/zofe-0-apresentacao-do-zone-of-front-enders/">Episode #0 of Zone of Front-Enders</a></td>
+    <td>A podcast presented by me and Daniel Filho talking about front-end development</td>
+    <td>pt</td>
+    <td>Podcast</td>
+  </tr>
+  <tr>
     <td>09/10/12</td>
     <td><a href="http://braziljs.org/a-descentralizacao-de-conteudo-nos-grupos-do-facebook/">The decentralization of content in Facebook Groups</a></td>
     <td>A post published in BrazilJS Foundation talking about the problem we are facing into the brazilian front-end community</td>
