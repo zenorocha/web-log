@@ -18,6 +18,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>Podcast</td>
   </tr>
   <tr>
+    <td>10/10/12</td>
+    <td><a href="http://www.youtube.com/watch?v=WwkJDDUwXLY/">Zeno Rocha invites you to Front in Maceió</a></td>
+    <td>A video to invite people for a front-end conference in Alagoas</td>
+    <td>pt</td>
+    <td>Video</td>
+  </tr>
+  <tr>
     <td>09/10/12</td>
     <td><a href="http://braziljs.org/a-descentralizacao-de-conteudo-nos-grupos-do-facebook/">The decentralization of content in Facebook Groups</a></td>
     <td>A post published in BrazilJS Foundation talking about the problem we are facing into the brazilian front-end community</td>
