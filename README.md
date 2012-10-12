@@ -10,7 +10,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Lang</th>
     <th>Type</th>
   </tr>
-  
+  <tr>
+    <td>09/10/12</td>
+    <td><a href="http://braziljs.org/a-descentralizacao-de-conteudo-nos-grupos-do-facebook/">The decentralization of content in Facebook Groups</a></td>
+    <td>A post published in BrazilJS Foundation talking about the problem we are facing into the brazilian front-end community</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
   <tr>
     <td>02/10/12</td>
     <td><a href="http://conferenciaweb.w3c.br/plataforma-aberta-da-web-cases-live-coding/">Open Web Plataform – Cases & Live Coding</a></td>
