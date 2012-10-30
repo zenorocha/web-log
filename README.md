@@ -11,9 +11,79 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
+    <td>27/10/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/frontinmaceio">What I've learned in 3 years as a front-end developer</a></td>
+    <td>A presentation at FrontInMaceio in Maceió, AL - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>24/10/12</td>
+    <td><a href="http://www.w3c.br/Noticias/UmResumoSobreAConferenciaWebbr2012">A summary of the conference Web.br 2012</a></td>
+    <td>A post published in W3C's blog talking about how was the conference.</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
+    <td>22/10/12</td>
+    <td><a href="http://fernandovieri.com/2012/10/22/jovens-recriam-versao-de-super-trunfo-para-debater-politica-com-diversao-2/">Young guys create a version of Super Trunfo to debate politics</a></td>
+    <td>A post published in Fernando Vieri's blog talking about Super Trunfo, a game that I created using open data.</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
+    <td>22/10/12</td>
+    <td><a href="http://blog.zenorocha.com/super-trunfo.html">Super Trunfo - An open data case</a></td>
+    <td>A post published in my personal blog talking about how did I created a game using open data.</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
+    <td>20/10/12</td>
+    <td><a href="http://soundcloud.com/od4d/zeno-rocha">Interview for OD4D about Super Trunfo</a></td>
+    <td>An interview published for OD4D talking about how did I created a game using open data.</td>
+    <td>pt</td>
+    <td>Audio</td>
+  </tr>
+  <tr>
+    <td>19/10/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/w3c">Augmented Reality in JavaScript</a></td>
+    <td>A presentation at W3C Conference in São Paulo, SP - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
+    <td>18/10/12</td>
+    <td><a href="http://zofe.com.br/zofe-1-agora-e-pra-valer/">Episode #1 of Zone of Front-Enders</a></td>
+    <td>A podcast presented by me and Daniel Filho talking about front-end development. This time interviewing Mike Taylor, web opener at Opera.</td>
+    <td>pt</td>
+    <td>Podcast</td>
+  </tr>
+  <tr>
+    <td>16/10/12</td>
+    <td><a href="http://www.youtube.com/watch?v=Mu6nnPN7W_s">Tunning Chrome Developer Tools</a></td>
+    <td>A video talking about how change the color of Inspect Element tool.</td>
+    <td>pt</td>
+    <td>Video</td>
+  </tr>
+  <tr>
+    <td>16/10/12</td>
+    <td><a href="http://tableless.com.br/tunando-developer-tools-google-chrome/">Tunning Chrome Developer Tools</a></td>
+    <td>A post published in my Tableless talking about how change the color of Inspect Element tool.</td>
+    <td>pt</td>
+    <td>Blog Post</td>
+  </tr>
+  <tr>
+    <td>24/10/12</td>
+    <td><a href="http://talks.zenorocha.com/2012/rcuritiba">Digital art: how to get started?</a></td>
+    <td>A presentation at RCuritiba in Curitiba, PR - Brazil</td>
+    <td>pt</td>
+    <td>Presentation</td>
+  </tr>
+  <tr>
     <td>11/10/12</td>
     <td><a href="http://zofe.com.br/zofe-0-apresentacao-do-zone-of-front-enders/">Episode #0 of Zone of Front-Enders</a></td>
-    <td>A podcast presented by me and Daniel Filho talking about front-end development</td>
+    <td>A podcast presented by me and Daniel Filho talking about front-end development. This time interviewing Felipe Moura, curator of BrazilJS Conference.</td>
     <td>pt</td>
     <td>Podcast</td>
   </tr>
@@ -236,7 +306,7 @@ If you are looking for the comming next confereces that I'm going to talk, you s
   </tr>
   <tr>
     <td>27/07/12</td>
-    <td><a href="http://www.youtube.com/watch?v=Lu77uPgrgx0">Boot2Gecko Phone Demo</a></td>    
+    <td><a href="http://www.youtube.com/watch?v=Lu77uPgrgx0">Boot2Gecko Phone Demo</a></td>
     <td>A video with Christian Heilmann from Mozilla's Hackathon demonstrating a phone running Boot2Gecko (or FirefoxOS)</td>
     <td>en</td>
     <td>Video</td>
@@ -247,14 +317,14 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>A post published on my personal blog talking about the bad things troll people can do and how to handle it</td>
     <td>pt</td>
     <td>Blog post</td>
-  </tr>          
+  </tr>
   <tr>
     <td>26/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/28082270941/introducing-braziljs-foundation">Introducing BrazilJS Foundation</a></td>
     <td>A post published on my personal blog introducing the BrazilJS Foundation</td>
     <td>en</td>
     <td>Blog post</td>
-  </tr>        
+  </tr>
   <tr>
     <td>25/07/12</td>
     <td><a href="http://talks.zenorocha.com/2012/fisl">Canvas, SVG and WebGL</a></td>
@@ -268,7 +338,7 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>A post published on my personal blog explaning how did we created that experiment</td>
     <td>pt</td>
     <td>Blog post</td>
-  </tr>          
+  </tr>
   <tr>
     <td>16/07/12</td>
     <td><a href="http://tableless.com.br/css-sprites/">CSS Sprites</a></td>
@@ -296,14 +366,14 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <td>A post published in personal blog referring to a magazine article about front-end development in Brazil</td>
     <td>pt</td>
     <td>Blog post</td>
-  </tr>  
+  </tr>
   <tr>
     <td>10/07/12</td>
     <td><a href="http://blog.zenorocha.com/post/26918306746/tudo-novo-de-novo">All new again</a></td>
     <td>A post published in personal blog talking about how it was to move from Globo to Liferay</td>
     <td>pt</td>
     <td>Blog post</td>
-  </tr>  
+  </tr>
   <tr>
     <td>04/07/12</td>
     <td><a href="http://talks.zenorocha.com/tdc-2012/">Canvas, SVG and WebGL</a></td>
