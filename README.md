@@ -11,6 +11,13 @@ If you are looking for the comming next confereces that I'm going to talk, you s
     <th>Type</th>
   </tr>
   <tr>
+    <td>29/10/12</td>
+    <td><a href="http://www.infoq.com/br/interviews/html5-front-end">The new HTML5 experience: future and present of front-end</a></td>
+    <td>A interview published in InfoQ talking HTML5.</td>
+    <td>pt</td>
+    <td>Video</td>
+  </tr>
+  <tr>
     <td>27/10/12</td>
     <td><a href="http://talks.zenorocha.com/2012/frontinmaceio">What I've learned in 3 years as a front-end developer</a></td>
     <td>A presentation at FrontInMaceio in Maceió, AL - Brazil</td>
